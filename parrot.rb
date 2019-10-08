@@ -1,3 +1,3 @@
-def parrot
-  p "Squawk!"
+def parrot(speak ="Squawk!")
+  p "#{speak}"
 end
